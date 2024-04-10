@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;
+    text-align: center;
+    background-color: blue;
+    font-size: ;
+}
+h2 {
+    color: brown;
+    text-align: left;
+    background-color:darkslategrey;
+}
+p {
+    color: chartreuse;
+background-color: chocolate;
+    text-align: right;
+}
